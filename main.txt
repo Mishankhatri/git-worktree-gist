@@ -1,4 +1,4 @@
 MAIN BRANCH
 -- feat1(tested OK)
--- feat2(tested OK) --hotfix added from main
+-- feat2(tested OK) --hotfix added from main(hotfix tested)
 -- feat3(tested OK)
